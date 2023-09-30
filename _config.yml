@@ -8,13 +8,13 @@ subtitle: ''
 description: ''
 keywords:
 author: LangoAbyss
-language: zh-CN
+language: zh-Hans
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://LangoAbyss233.github.io/blog
-root: /blog/
+url: https://langoabyss233.github.io/
+root: /langoabyss233.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -98,14 +98,14 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: modernist
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
   repo: https://github.com/LangoAbyss233/langoabyss233.github.com
-  branch: master
+  branch: main
 
 ## Docs: https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus
 markdown_it_plus:

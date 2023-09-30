@@ -36,3 +36,7 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+Here is an example of math:
+$$a_1 = b_1 + c_1$$
+and: $$114514 + 1919810^{1145} \leq 1145141919810$$
